@@ -13,5 +13,5 @@ dos objetos City e Client
 
 ## Commandos iniciais
 
-`**npm start**`, inicia o servidor<br>
-`**npm test**`, roda testes de integração
+`npm start`, inicia o servidor<br>
+`npm test`, roda testes de integração
