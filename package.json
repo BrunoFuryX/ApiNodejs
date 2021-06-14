@@ -28,7 +28,9 @@
   "devDependencies": {},
   "scripts": {
     "test": "jest --env node --detectOpenHandles",
-    "start": "nodemon server/server.js"
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
+
   },
   "author": "",
   "license": "ISC"
