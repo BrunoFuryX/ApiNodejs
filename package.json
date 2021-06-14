@@ -1,0 +1,35 @@
+{
+  "name": "testeblueone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer-stylus": "^1.0.0",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "browser-sync": "^2.26.14",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-clone": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-js-import": "^1.0.6",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-stylus": "^2.7.0",
+    "jest": "^27.0.4",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0",
+    "pg-promise": "^10.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --env node --detectOpenHandles",
+    "start": "nodemon server/server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
