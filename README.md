@@ -1,4 +1,4 @@
-# Teste para BlueOne, Api
+# API Node.JS
 
 ## Testes de Integração
 Para realizar esses testes é necessário estar com o projeto rodando.
